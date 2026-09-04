@@ -61,3 +61,19 @@ covering:
 Dataset from **Maven Analytics Data Playground**:
 
 https://mavenanalytics.io/data-playground/coffee-shop-sales
+
+-----------------------------------------------------------------------------------------------------
+
+# Dashboard Preview
+
+## Excel
+
+<img width="901" height="657" alt="Dashboard Excel (1)" src="https://github.com/user-attachments/assets/e2dd6aaa-d594-44b8-88d8-30a3889c2dd9" />
+
+<img width="910" height="535" alt="Dashboard Excel (2)" src="https://github.com/user-attachments/assets/9d9b29ed-42e3-49aa-b629-ed8bb8927e40" />
+
+
+## Power BI
+
+<img width="1419" height="796" alt="Dashboard Power Bi" src="https://github.com/user-attachments/assets/d92685c9-4ee6-4cf8-8813-6756bd23b82a" />
+
